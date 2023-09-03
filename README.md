@@ -2,13 +2,12 @@
 
 <!-- **jaskaransinghbhalla/jaskaransinghbhalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently proficient in ReactJS
+- 📫 How to reach me: [jaskaransinghbhalla.mgsb@gmail.com](mailto:jaskaransinghbhalla.mgsb@gmail.com)
+- 😄 Pronouns: He/Him/His...
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [Email](jaskaransinghbhalla.mgsb@gmail.com)
-- 😄 Pronouns: He/Him/His...
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
