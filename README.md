@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently proficient in ReactJS
-- 📫 How to reach me: [jaskaransinghbhalla.mgsb@gmail.com](mailto:jaskaransinghbhalla.mgsb@gmail.com)
+- 📫 How to reach me: [jaskaransinghbhalla.iitd@gmail.com](mailto:jaskaransinghbhalla.iitd@gmail.com)
 - 😄 Pronouns: He/Him/His
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 👯 I’m looking to collaborate on ... -->
