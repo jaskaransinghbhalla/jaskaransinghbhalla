@@ -3,7 +3,7 @@
 <!-- **jaskaransinghbhalla/jaskaransinghbhalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently proficient in ReactJS
+- 🔭 I’m currently proficient in Typescript, ReactJS, Tailwind, Prisma
 - 📫 How to reach me: [jaskaransinghbhalla.iitd@gmail.com](mailto:jaskaransinghbhalla.iitd@gmail.com)
 - 😄 Pronouns: He/Him/His
 <!-- - 🌱 I’m currently learning  -->
