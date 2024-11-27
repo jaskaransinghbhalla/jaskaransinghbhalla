@@ -35,7 +35,7 @@
 
 # 📊 GitHub Stats:
 ![jaskaransinghbhalla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&layout=compact)
-![jaskaransinghbhalla's Stats](https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![jaskaransinghbhalla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaskaransinghbhalla&theme=dark&hide_border=false)
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaskaransinghbhalla&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=8&theme=dracula&hide_border=false" height="250" alt="languages graph"  /> -->
+![jaskaransinghbhalla's Stats](https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![jaskaransinghbhalla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaskaransinghbhalla&theme=dark&hide_border=false)
