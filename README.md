@@ -34,11 +34,8 @@
 <!-- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  -->
 
 # 📊 GitHub Stats:
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaskaransinghbhalla&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=8&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=devmrfitz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![jaskaransinghbhalla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![jaskaransinghbhalla's Stats](https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![jaskaransinghbhalla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaskaransinghbhalla&theme=dark&hide_border=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=devmrfitz&theme=gotham&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devmrfitz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaskaransinghbhalla&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=8&theme=dracula&hide_border=false" height="250" alt="languages graph"  /> -->
