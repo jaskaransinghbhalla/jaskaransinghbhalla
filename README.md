@@ -1,6 +1,5 @@
-# A quick Intro
-
-<p> Hi, I am Jaskaran Singh Bhalla,<br>I'm a full stack engineer, an open source enthusiast and a curious developer. I'm currently a senior in Computer Science at IIT Delhi.
+## Hi, I am Jaskaran Singh Bhalla
+<p>I'm a full stack engineer, an open source enthusiast and a curious developer. I'm currently a senior at IIT Delhi.
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaskaransinghbhalla/)
@@ -27,11 +26,9 @@
 <!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  -->
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  -->
-
 <!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  -->
 <!-- ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)  -->
 <!-- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  -->
-
 
 <!-- # 📊 GitHub Stats:
 
