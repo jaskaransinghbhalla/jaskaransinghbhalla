@@ -1,6 +1,7 @@
 ## Hi, I am Jaskaran Singh Bhalla
 
-<p>I'm a full stack engineer, an open source enthusiast and a curious developer. I'm currently a senior at IIT Delhi.
+- Final Year College student, looking for Software Engineering Role
+- Studied Engineering, Computers and Entrepreneuship at IIT Delhi.
 
 <!-- Links -->
 
