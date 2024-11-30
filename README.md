@@ -33,7 +33,7 @@
 <!-- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  -->
 
 <!--  # 📊 GitHub Stats:-->
-<!-- ![jaskaransinghbhalla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&layout=compact)-->
+![jaskaransinghbhalla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 <!-- ![jaskaransinghbhalla's Stats](https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&count_private=true)-->
 
