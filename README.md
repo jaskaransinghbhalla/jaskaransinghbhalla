@@ -30,6 +30,6 @@
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&hide_border=false&layout=compact&card_width=1000px" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskaransinghbhalla&theme=dark&hide_border=false&card_width=250px" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskaransinghbhalla&theme=dark&hide_border=false&card_width=300px" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&show_icons=false&hide_border=false&count_private=true&card_width=250px" alt="GitHub Stats"/>
 </div>
