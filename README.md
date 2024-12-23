@@ -28,7 +28,7 @@
 
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&ayout=compact&card_width=1000px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&layout=compact&card_width=500px"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&count_private=true&card_width=500px"/>
 </div>
