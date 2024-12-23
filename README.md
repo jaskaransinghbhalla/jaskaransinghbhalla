@@ -24,18 +24,16 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-<!-- ![Cpp](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  -->
-<!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  -->
-<!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  -->
-<!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
-<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  -->
-<!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  -->
-<!-- ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)  -->
-<!-- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  -->
 
-<!--  # 📊 GitHub Stats:-->
-<!-- ![jaskaransinghbhalla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&layout=compact)-->
 
-<!-- ![jaskaransinghbhalla's Stats](https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&count_private=true)-->
+<div style="width: 700px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskaransinghbhalla&theme=dark&hide_border=false" alt="Github Stats" />
+</div>
 
-<!-- ![jaskaransinghbhalla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaskaransinghbhalla&theme=dark&hide_border=false) -->
+<div style="width: 700px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Github Stats" />
+</div>
+
+<div style="width: 700px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
