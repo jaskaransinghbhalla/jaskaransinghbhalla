@@ -26,9 +26,11 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-<br>
+
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&hide_border=false&layout=compact&card_width=500px" alt="Top Languages"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskaransinghbhalla&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&show_icons=false&hide_border=false&count_private=true&card_width=500px" alt="GitHub Stats"/>
 </div>
