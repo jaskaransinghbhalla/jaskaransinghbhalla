@@ -25,15 +25,10 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+
 <br>
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskaransinghbhalla&theme=dark&hide_border=false"/>
-</div>
-<br>
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&count_private=true&card_width=500px"/>
-</div>
-<br>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&show_icons=true&hide_border=false&layout=compact&card_width=500px"/>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&hide_border=false&layout=compact&card_width=500px" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskaransinghbhalla&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&show_icons=false&hide_border=false&count_private=true&card_width=500px" alt="GitHub Stats"/>
 </div>
