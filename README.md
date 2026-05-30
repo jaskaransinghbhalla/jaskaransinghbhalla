@@ -24,11 +24,3 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskaransinghbhalla&theme=dark&layout=compact&card_width=500px"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaskaransinghbhalla&theme=dark&count_private=true&card_width=500px"/>
-</div>
